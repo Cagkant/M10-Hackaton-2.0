@@ -1,1 +1,2 @@
-# M10-Hackaton-2.0
+## Projem için fikir:
+> 
