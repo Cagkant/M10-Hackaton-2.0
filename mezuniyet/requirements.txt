@@ -1,0 +1,6 @@
+tensorflow==2.3.1
+uvicorn==0.12.2
+fastapi==0.63.0
+discord.py==1.7.3
+flake8==3.9.2
+pyttsx3==2.90
